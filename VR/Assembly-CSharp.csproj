@@ -533,12 +533,6 @@
  <Reference Include="Unity.VSCode.Editor">
  <HintPath>H:/Users/ZXY101/Desktop/VR/VR/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
- <Reference Include="Unity.ProBuilder">
- <HintPath>H:/Users/ZXY101/Desktop/VR/VR/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
- </Reference>
- <Reference Include="Unity.ProBuilder.Editor">
- <HintPath>H:/Users/ZXY101/Desktop/VR/VR/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
- </Reference>
  <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
  <HintPath>H:/Users/ZXY101/Desktop/VR/VR/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
  </Reference>
