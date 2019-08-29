@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: c0a3fa27c127b134bb8250e103b1e3cd
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 5063614877181392153
+    second: leftDoor.006|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 244270850843216631
+    second: leftDoor.006|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -3680098348330424747
+    second: leftDoor.006|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: 5211583400063815538
+    second: leftDoor.006|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: -6051966050463422895
+    second: leftDoor.006|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: 3971065106781007306
+    second: leftDoor.006|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: 8500067233564977129
+    second: leftDoor.006|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: 5141453470394690014
+    second: leftDoor.006|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: -3700105793785679261
+    second: 'leftDoor.006|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 171810866949099528
+    second: leftDoor.006|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: -591625714000886451
+    second: leftDoor.006|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: -8562758543249087135
+    second: leftDoor.006|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: 2667989571462581375
+    second: leftDoor.006|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: 3327387007049235067
+    second: leftDoor.006|leftDoor.003Action
+  - first:
+      74: 7885887016135765165
+    second: leftDoor.005|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: -6144721855309786551
+    second: leftDoor.005|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -6216394029831557384
+    second: leftDoor.005|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: -8888671644704835635
+    second: leftDoor.005|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: -7452509396306248148
+    second: leftDoor.005|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: 1285934063390472718
+    second: leftDoor.005|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: 3351915245581455158
+    second: leftDoor.005|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: 3441551353943460392
+    second: leftDoor.005|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: 1122797178619344033
+    second: 'leftDoor.005|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 1397654911535174568
+    second: leftDoor.005|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: 2329088035810352376
+    second: leftDoor.005|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: 4154960724456877250
+    second: leftDoor.005|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: 467036492754535317
+    second: leftDoor.005|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: 4071685650233496234
+    second: leftDoor.005|leftDoor.003Action
+  - first:
+      74: 4548073982345307209
+    second: leftDoor.004|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 4261397583263584148
+    second: leftDoor.004|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -1875563895354892947
+    second: leftDoor.004|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: -2611099903038678320
+    second: leftDoor.004|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: 1234245988137834596
+    second: leftDoor.004|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: 6011860921757847952
+    second: leftDoor.004|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: -7170795917477314398
+    second: leftDoor.004|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: 33716984646192886
+    second: leftDoor.004|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: -3091788848823686378
+    second: 'leftDoor.004|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: -4419047354294508289
+    second: leftDoor.004|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: 2979721583955246132
+    second: leftDoor.004|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: 2191746471001267208
+    second: leftDoor.004|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: 5066706960275813787
+    second: leftDoor.004|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: 5362104044724075483
+    second: leftDoor.004|leftDoor.003Action
+  - first:
+      74: -3001789164476816956
+    second: rightDoor.004|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: -8930970820830379705
+    second: rightDoor.004|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: 3957634291089514259
+    second: rightDoor.004|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: -6535841611081916286
+    second: rightDoor.004|door Glass.001|door Glass.001|door GlassAction.003|door
+      Gla.000
+  - first:
+      74: 6748790838135611145
+    second: rightDoor.004|door Glass.001|door Glass.001|door GlassAction.003|door
+      Gla.001
+  - first:
+      74: -2021650656541335910
+    second: rightDoor.004|door Glass.001|door Glass.001|door GlassAction.003|door
+      Glass.0
+  - first:
+      74: 1008884420284487836
+    second: rightDoor.004|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: 1283434121768785292
+    second: rightDoor.004|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: 7285418071630963268
+    second: 'rightDoor.004|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 8874423793873296452
+    second: rightDoor.004|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: -6795820448193433725
+    second: rightDoor.004|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: -8218559519916562819
+    second: rightDoor.004|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: -1180318094692497444
+    second: rightDoor.004|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: 6594033488126338239
+    second: rightDoor.004|leftDoor.003Action
+  - first:
+      74: -2799571220488165268
+    second: rightDoor.003|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 4326560645868882130
+    second: rightDoor.003|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -1831814842792004079
+    second: rightDoor.003|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: 8521478100904036142
+    second: rightDoor.003|door Glass.001|door Glass.001|door GlassAction.003|door
+      Gla.000
+  - first:
+      74: 5105533879559576715
+    second: rightDoor.003|door Glass.001|door Glass.001|door GlassAction.003|door
+      Gla.001
+  - first:
+      74: 7482774100818032069
+    second: rightDoor.003|door Glass.001|door Glass.001|door GlassAction.003|door
+      Glass.0
+  - first:
+      74: -4932130185940747683
+    second: rightDoor.003|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: -9127387680004198483
+    second: rightDoor.003|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: -5618150753883845985
+    second: 'rightDoor.003|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 4133863775105579179
+    second: rightDoor.003|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: 2239332974144266820
+    second: rightDoor.003|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: -5057071325087758468
+    second: rightDoor.003|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: 5527195389193986701
+    second: rightDoor.003|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: -5131890525843705226
+    second: rightDoor.003|leftDoor.003Action
+  - first:
+      74: 4656615852721311159
+    second: leftDoor.003|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 5748320772604071260
+    second: leftDoor.003|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -3168641270094127655
+    second: leftDoor.003|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: 7905883251934118454
+    second: leftDoor.003|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: 367510905990744331
+    second: leftDoor.003|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: -8854264304953190512
+    second: leftDoor.003|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: -193684219482915509
+    second: leftDoor.003|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: 4340931169376797092
+    second: leftDoor.003|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: -6419431936201994982
+    second: 'leftDoor.003|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 504444979143126105
+    second: leftDoor.003|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: 7458553465119842322
+    second: leftDoor.003|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: 4297912240711233712
+    second: leftDoor.003|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: -7987961417893286928
+    second: leftDoor.003|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: -1607948346651940124
+    second: leftDoor.003|leftDoor.003Action
+  - first:
+      74: -1973803430100660832
+    second: rightDoor.002|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 5650851473313782008
+    second: rightDoor.002|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -3791639213891231104
+    second: rightDoor.002|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: 490301439147413732
+    second: rightDoor.002|door Glass.001|door Glass.001|door GlassAction.003|door
+      Gla.000
+  - first:
+      74: 8771725180940788929
+    second: rightDoor.002|door Glass.001|door Glass.001|door GlassAction.003|door
+      Gla.001
+  - first:
+      74: 1322419340348372607
+    second: rightDoor.002|door Glass.001|door Glass.001|door GlassAction.003|door
+      Glass.0
+  - first:
+      74: -2084107006406349134
+    second: rightDoor.002|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: 4589593573759868415
+    second: rightDoor.002|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: -2502636323334245392
+    second: 'rightDoor.002|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 2546436604830254107
+    second: rightDoor.002|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: -3054820630331096613
+    second: rightDoor.002|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: -3323024573274767035
+    second: rightDoor.002|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: -5603465154429630232
+    second: rightDoor.002|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: -4553941526381289148
+    second: rightDoor.002|leftDoor.003Action
+  - first:
+      74: 7917743036839944906
+    second: leftDoor.002|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 878911060090759484
+    second: leftDoor.002|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -7372997990750940856
+    second: leftDoor.002|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: -6394667167056512477
+    second: leftDoor.002|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: 4589545801430060249
+    second: leftDoor.002|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: -1067902831403800242
+    second: leftDoor.002|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: 5411505310042409852
+    second: leftDoor.002|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: -8590429417393743569
+    second: leftDoor.002|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: -5275124671857891491
+    second: 'leftDoor.002|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: -8548342258047290286
+    second: leftDoor.002|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: -3524199927684965724
+    second: leftDoor.002|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: -8186444833271914938
+    second: leftDoor.002|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: 6544041209949894351
+    second: leftDoor.002|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: 8681586626995890041
+    second: leftDoor.002|leftDoor.003Action
+  - first:
+      74: 6916886256676017507
+    second: leftDoor.001|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 145187260591067192
+    second: leftDoor.001|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -535553190705931581
+    second: leftDoor.001|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: -5939124614282041419
+    second: leftDoor.001|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: 980928518489701666
+    second: leftDoor.001|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: 387040399194201044
+    second: leftDoor.001|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: 6660373728007751517
+    second: leftDoor.001|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: -2529825621203710405
+    second: leftDoor.001|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: 8232699914069378901
+    second: 'leftDoor.001|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 8929888984817224188
+    second: leftDoor.001|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: -3641878682044315648
+    second: leftDoor.001|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: -2943630231088368610
+    second: leftDoor.001|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: 5284528233261975685
+    second: leftDoor.001|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: 4629651646119094029
+    second: leftDoor.001|leftDoor.003Action
+  - first:
+      74: -3661895593308141629
+    second: rightDoor.001|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 2246287952506420139
+    second: rightDoor.001|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -3803627699162452515
+    second: rightDoor.001|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: -8715414963445691417
+    second: rightDoor.001|door Glass.001|door Glass.001|door GlassAction.003|door
+      Gla.000
+  - first:
+      74: -6904723993497384287
+    second: rightDoor.001|door Glass.001|door Glass.001|door GlassAction.003|door
+      Gla.001
+  - first:
+      74: -1563160014836177105
+    second: rightDoor.001|door Glass.001|door Glass.001|door GlassAction.003|door
+      Glass.0
+  - first:
+      74: 8161309701925684869
+    second: rightDoor.001|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: -7279476085603337369
+    second: rightDoor.001|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: -8782036601167273572
+    second: 'rightDoor.001|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: -809253250109329263
+    second: rightDoor.001|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .000
+  - first:
+      74: 5437089614990162730
+    second: rightDoor.001|door Glass|door Glass|door GlassAction.003|door Glass|door
+      .001
+  - first:
+      74: -2351529350906332765
+    second: rightDoor.001|door Glass|door Glass|door GlassAction.003|door Glass|door
+      Glas
+  - first:
+      74: 2734578307070851140
+    second: rightDoor.001|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: -8903739899197504516
+    second: rightDoor.001|leftDoor.003Action
+  - first:
+      74: -3841887081378798552
+    second: rightDoor|door Glass.001|door Glass.001|door Glass.001Action.001|door
+      Gla
+  - first:
+      74: 7822143351199738238
+    second: rightDoor|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: -3676390441865857501
+    second: rightDoor|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: -4808164467140121139
+    second: rightDoor|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: 1700954794469501783
+    second: rightDoor|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: 4120261419273565873
+    second: rightDoor|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: -722023835310700230
+    second: rightDoor|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: 2728484421214736908
+    second: rightDoor|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: 4022497013879634297
+    second: 'rightDoor|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: -2649285997911442988
+    second: rightDoor|door Glass|door Glass|door GlassAction.003|door Glass|door .000
+  - first:
+      74: -6235088622332399430
+    second: rightDoor|door Glass|door Glass|door GlassAction.003|door Glass|door .001
+  - first:
+      74: -1253225866350717437
+    second: rightDoor|door Glass|door Glass|door GlassAction.003|door Glass|door Glas
+  - first:
+      74: 7622789371813616058
+    second: rightDoor|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: -461213941678069025
+    second: rightDoor|leftDoor.003Action
+  - first:
+      74: -8837895959452803721
+    second: leftDoor|door Glass.001|door Glass.001|door Glass.001Action.001|door Gla
+  - first:
+      74: -7705440556070146390
+    second: leftDoor|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: 3402693713384736436
+    second: leftDoor|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: 3158567124114448261
+    second: leftDoor|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: 6010113886302352402
+    second: leftDoor|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: 7266624122702426774
+    second: leftDoor|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: -838546054781962364
+    second: leftDoor|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: -5050917089906585619
+    second: leftDoor|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: -1121250995312080824
+    second: 'leftDoor|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 2853188646962022005
+    second: leftDoor|door Glass|door Glass|door GlassAction.003|door Glass|door .000
+  - first:
+      74: 5944714351131174410
+    second: leftDoor|door Glass|door Glass|door GlassAction.003|door Glass|door .001
+  - first:
+      74: 3847763376444164544
+    second: leftDoor|door Glass|door Glass|door GlassAction.003|door Glass|door Glas
+  - first:
+      74: -1874370826885720540
+    second: leftDoor|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: -7690926878326639086
+    second: leftDoor|leftDoor.003Action
+  - first:
+      74: 4934439634276479889
+    second: Camera|door Glass.001|door Glass.001|door Glass.001Action.001|door Gla
+  - first:
+      74: 1204207995831678638
+    second: Camera|door Glass.001|door Glass.001|door Glass.001Action.001|door.000
+  - first:
+      74: 4693300581222476879
+    second: Camera|door Glass.001|door Glass.001|door Glass.001Action.001|door.005
+  - first:
+      74: 7537121398796068612
+    second: Camera|door Glass.001|door Glass.001|door GlassAction.003|door Gla.000
+  - first:
+      74: 8495376333374131283
+    second: Camera|door Glass.001|door Glass.001|door GlassAction.003|door Gla.001
+  - first:
+      74: 6126225132656610693
+    second: Camera|door Glass.001|door Glass.001|door GlassAction.003|door Glass.0
+  - first:
+      74: -9221301451066482853
+    second: Camera|door Glass|door Glass|door Glass.001Action.001|door Glass|d.000
+  - first:
+      74: 104692694028776923
+    second: Camera|door Glass|door Glass|door Glass.001Action.001|door Glass|d.005
+  - first:
+      74: 4530974267252109166
+    second: 'Camera|door Glass|door Glass|door Glass.001Action.001|door Glass|door '
+  - first:
+      74: 687374053874057702
+    second: Camera|door Glass|door Glass|door GlassAction.003|door Glass|door .000
+  - first:
+      74: 3955107638022391798
+    second: Camera|door Glass|door Glass|door GlassAction.003|door Glass|door .001
+  - first:
+      74: 4227633196619932639
+    second: Camera|door Glass|door Glass|door GlassAction.003|door Glass|door Glas
+  - first:
+      74: 8215573406275602360
+    second: Camera|Key.006|door Glass.001|door Glass.001Action.001|door Glass.001|
+  - first:
+      74: 4954409072551979365
+    second: Camera|leftDoor.003Action
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
